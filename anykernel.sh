@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=S24/ZFold6/ZFlip6-Knox-Disabled-Kernel-Kokuban
+kernel.string=pineapple kernel with KernelSU by Yufz
 do.devicecheck=1
 do.modules=0
 do.systemless=1
