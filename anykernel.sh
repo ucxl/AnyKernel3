@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=taro kernel with KernelSU by Yufz
+kernel.string=waipio kernel with KernelSU by Yufz
 do.devicecheck=1
 do.modules=0
 do.systemless=1
